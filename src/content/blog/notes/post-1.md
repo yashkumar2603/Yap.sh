@@ -1,8 +1,8 @@
 ---
-title: Note Title
-description: Your blog description, which is long text, can be an introduction to the post or a paragraph of the post.
-duration: 5min
-date: 2022-12-01
+title: First note
+description: Setup the project test
+duration: dont read ig
+date: 2024-10-26
 ---
 
-Use [Vitesse Them for Astro](https://astro.build/themes/details/vitesse-theme-for-astro/) to start writing your blog posts.
+testing

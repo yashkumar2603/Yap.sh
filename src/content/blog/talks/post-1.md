@@ -1,8 +1,8 @@
 ---
-title: Talk Title
-description: Your blog description, which is long text, can be an introduction to the post or a paragraph of the post.
-duration: 30min
-date: 2023-12-01
+title: Talk with testing
+description: testing of talks
+duration: dont read ig
+date: 2024-10-26
 ---
 
-Use [Vitesse Them for Astro](https://astro.build/themes/details/vitesse-theme-for-astro/) to start writing your blog posts.
+Test
