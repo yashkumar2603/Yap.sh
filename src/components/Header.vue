@@ -96,13 +96,11 @@ function toggleNavDrawer() {
       </div>
     </div>
     <div class="flex gap-x-6">
+      <ThemeToggle />
       <a
         v-for="link in socialLinks" :key="link.text" :aria-label="`${link.text}`" :class="link.icon" nav-link
         :target="getLinkTarget(link.href)" :href="link.href"
       />
-
-      <a nav-link target="_blank" href="/rss.xml" i-ri-rss-line aria-label="RSS" />
-      <ThemeToggle />
     </div>
   </header>
   <nav

@@ -1,45 +1,38 @@
 export const siteConfig = {
-  author: 'Kevin Wong',
-  title: 'Vitesse theme for Astro',
-  subtitle: 'Vitesse theme for Astro, supports Vue and UnoCSS.',
-  description: 'A Minimal, SEO-friendly portfolio and blog theme for Astro.',
+  author: 'Yash Kumar',
+  title: 'Yappington House',
+  subtitle: 'Read my yaps if u managed to reach here',
+  description: '( and care enough to read them)',
   image: {
     src: '/hero.jpg',
     alt: 'Website Main Image',
   },
-  email: 'kevinwong865@gmail.com',
+  email: 'yash.2603kumar@gmail.com',
   socialLinks: [
     {
       text: 'GitHub',
-      href: '',
+      href: 'https://github.com/yashkumar2603',
       icon: 'i-simple-icons-github',
       header: 'i-ri-github-line',
     },
     {
-      text: 'Twitter',
-      href: '',
-      icon: 'i-simple-icons-x',
-      header: 'i-ri-twitter-x-line',
-    },
-    {
       text: 'Linkedin',
-      href: '',
+      href: 'https://www.linkedin.com/in/yashh-kumarr/',
       icon: 'i-simple-icons-linkedin',
     },
     {
       text: 'Instagram',
-      href: '',
+      href: 'https://www.instagram.com/_yashh_kumarr_/',
       icon: 'i-simple-icons-instagram',
     },
     {
-      text: 'Youtube',
-      href: '',
-      icon: 'i-simple-icons-youtube',
+      text: 'My Photographs',
+      href: 'https://thed3500-kappa.vercel.app/',
     },
   ],
   header: {
     logo: {
-      src: '/favicon.svg',
+      src: '/logo.png',
       alt: 'Logo Image',
     },
     navLinks: [
@@ -86,14 +79,6 @@ export const siteConfig = {
       {
         text: 'Markdown Style',
         href: '/md-style',
-      },
-      {
-        text: 'View on Astro',
-        href: 'https://astro.build/themes/details/vitesse-theme-for-astro/',
-      },
-      {
-        text: 'GitHub Repository',
-        href: 'https://github.com/kevinwong865/astro-theme-vitesse',
       },
     ],
   },
