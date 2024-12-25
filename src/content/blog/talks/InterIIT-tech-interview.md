@@ -15,3 +15,5 @@ Another thing that happened was that he asked me which part of the project I wou
 Also i was sayin "like this", "like that..." a lot. This was bad if u ask me, kinda was not like how it should have been. The reason I was acing the interviews in first year but cant do that right now as far as I can think of it as of now is that I dont anymore think that i have the upper hand in the convo. I think that they are here to test me, not like I am here to prove myself. While knowing well that I am actually better than them. This is kinda the thing in interviews ig, that the interviewer must think that u are better than them, might be in some niceh stack but still u are better in something they dont know.
 
 Overall, I dont think i will make it in, but ha I must fix my convo sharpness, just talk to Demetri ig. Like just read the stuff he is interested in and then talk to him.
+
+Update : I got in lol and some pretty crazy shit has happened while i was there.
