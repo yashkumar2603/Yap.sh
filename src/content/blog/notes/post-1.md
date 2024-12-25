@@ -13,7 +13,7 @@ I am writing this post about a project that I am about to code alongside a video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zi0iR3UN-u0?si=JP-BLbApetGLeRG2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This video, and I will use Cloudflare R2 instead of the AWS S3 used here. Should be trivial to swap these two.
+This video, and I will use Cloudflare R2 instead of the AWS S3 used here. Should be trivial to swap these two. 
 
 Along with these, several other stuff on the blockchain, 2 backend workers. My own private key ffor the main account and stuff, then deploy this.
 

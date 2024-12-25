@@ -12,4 +12,4 @@ So he decided not to do DSA for now, just do it during placements and secure a d
 But they probably wont.
 > If u know that u are better than most in some field then it is your moral duty to do that and uplift humanity. One must always havee in his mind the thought of serving others using his best skills.
 
-This is what I took away from a part of the convo, upon him `mentioning how he sees the directors vision while watching videos/ creation, he notices what they want to convey.
+This is what I took away from a part of the convo, upon him `mentioning how he sees the directors vision while watching videos/creation, he notices what they want to convey.

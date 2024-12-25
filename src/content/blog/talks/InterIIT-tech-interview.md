@@ -16,4 +16,4 @@ Also i was sayin "like this", "like that..." a lot. This was bad if u ask me, ki
 
 Overall, I dont think i will make it in, but ha I must fix my convo sharpness, just talk to Demetri ig. Like just read the stuff he is interested in and then talk to him.
 
-Update : I got in lol and some pretty crazy shit has happened while i was there.
+Update : I got in lol and some pretty crazy shit has happened while i was there, check the month posts.
