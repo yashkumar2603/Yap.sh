@@ -49,9 +49,9 @@ export const siteConfig = {
         href: '/blog/talks',
       },
       {
-        text: 'Projects',
-        href: '/projects',
-      },
+        text: 'Day-v-log',
+        href: '/blog/Day-v-log',
+      }
     ],
   },
   page: {
