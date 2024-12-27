@@ -38,7 +38,7 @@ export const siteConfig = {
     navLinks: [
       {
         text: 'Blog',
-        href: '/blog/Day-v-log',
+        href: '/blog',
       },
       {
         text: 'Notes',
@@ -53,8 +53,8 @@ export const siteConfig = {
   page: {
     blogLinks: [
       {
-        text: 'Day-v-log',
-        href: '/blog/Day-v-log',
+        text: 'Blog',
+        href: '/blog',
       },
       {
         text: 'Notes',
