@@ -4,7 +4,7 @@ export const siteConfig = {
   subtitle: 'Read my yaps if u managed to reach here',
   description: '( and care enough to read them)',
   image: {
-    src: '/hero.jpg',
+    src: '/vinland.jpg',
     alt: 'Website Main Image',
   },
   email: 'yash.2603kumar@gmail.com',
